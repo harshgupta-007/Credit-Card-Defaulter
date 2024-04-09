@@ -1,0 +1,16 @@
+2020-02-19/16:24:00		Invalid File Name!! File moved to Bad Raw Folder :: creditCardFraud_021119920_010222.xls
+2020-02-19/16:25:02		Invalid File Name!! File moved to Bad Raw Folder :: creditCardFraud_021119920_010222.xls
+2020-02-19/16:37:15		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2020-02-19/16:50:10		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2020-02-19/16:53:17		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2020-02-19/17:47:57		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2020-02-19/18:49:21		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2020-02-19/18:50:04		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2023-08-27/23:17:28		Error occured while validating FileName [Errno 13] Permission denied: 'Training_Batch_Files/.ipynb_checkpoints'
+2023-08-27/23:28:23		Error occured while validating FileName [Errno 13] Permission denied: 'Training_Batch_Files/.ipynb_checkpoints'
+2023-09-25/20:49:28		Error occured while validating FileName [Errno 13] Permission denied: 'Training_Batch_Files/.ipynb_checkpoints'
+2023-09-25/20:52:03		Error occured while validating FileName [Errno 13] Permission denied: 'Training_Batch_Files/.ipynb_checkpoints'
+2023-09-25/20:57:28		Error occured while validating FileName [Errno 13] Permission denied: 'Training_Batch_Files/.ipynb_checkpoints'
+2023-09-25/21:04:48		Error occured while validating FileName [Errno 13] Permission denied: 'Training_Batch_Files/.ipynb_checkpoints'
+2023-09-25/21:06:14		Error occured while validating FileName [Errno 13] Permission denied: 'Training_Batch_Files/.ipynb_checkpoints'
+2023-09-25/21:07:12		Error occured while validating FileName [Errno 13] Permission denied: 'Training_Batch_Files/.ipynb_checkpoints'
